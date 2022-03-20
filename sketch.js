@@ -53,6 +53,7 @@ function setup() {
 
 function draw() {
   background(255);
+// test comment
 
   // kangaroo.x=camera.positionX-270;
   // kangaroo.x=Camera.position.x-270;
